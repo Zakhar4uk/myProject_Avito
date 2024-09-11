@@ -88,7 +88,6 @@ public class TaskTest extends BaseTest {
     }
 
     /*
-    //пробег по фильтру "Категории"
     @Test
     public void checkFilterCategory() {
         mainPage.clickOnButtonCategory();
